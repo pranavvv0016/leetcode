@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavvv0016/leetcode/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pranavvv0016/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
@@ -40,5 +41,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pranavvv0016/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
