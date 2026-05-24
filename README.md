@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/pranavvv0016/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1572-matrix-diagonal-sum](https://github.com/pranavvv0016/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/pranavvv0016/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
