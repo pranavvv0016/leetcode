@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/pranavvv0016/leetcode/tree/master/0441-arranging-coins) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranavvv0016/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0441-arranging-coins](https://github.com/pranavvv0016/leetcode/tree/master/0441-arranging-coins) |
 ## Simulation
 |  |
 | ------- |
