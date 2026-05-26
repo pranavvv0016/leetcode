@@ -9,11 +9,6 @@ class Solution {
         set.add(num);
     }
    }
-   int [] r=new int[set.size()];
-   int i=0;
-   for(int num:set){
-    r[i++]=num;
-   }
-    return r[0];
+return set.iterator().next();
     }
 }
