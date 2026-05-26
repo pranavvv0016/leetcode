@@ -1,9 +1,19 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-     int r=0;
-     for(int i=0;i<nums.length;i++){
-        r^=nums[i];
-     }
-     return r;
+   HashSet<Integer>set=new HashSet<>();
+   for(int num:nums){
+    if(set.contains(num)){
+        set.remove(num);
+    }
+    else{
+        set.add(num);
+    }
+   }
+   int [] r=new int[set.size()];
+   int i=0;
+   for(int num:set){
+    r[i++]=num;
+   }
+    return r[0];
     }
 }
