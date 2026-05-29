@@ -54,6 +54,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/pranavvv0016/leetcode/tree/master/0441-arranging-coins) |
+| [2652-sum-multiples](https://github.com/pranavvv0016/leetcode/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranavvv0016/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
