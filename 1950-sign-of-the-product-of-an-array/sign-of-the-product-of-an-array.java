@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public int arraySign(int[] nums) {
         int x=1;
