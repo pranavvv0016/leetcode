@@ -17,12 +17,14 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pranavvv0016/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranavvv0016/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavvv0016/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranavvv0016/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
