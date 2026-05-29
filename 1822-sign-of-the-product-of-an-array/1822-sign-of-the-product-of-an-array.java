@@ -6,7 +6,7 @@ class Solution {
             return 0;
         }
         if(nums[i]<0){
-            p-=p;
+            p=-p;
         }
 
     }
