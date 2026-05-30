@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pranavvv0016/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/pranavvv0016/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/pranavvv0016/leetcode/tree/master/0441-arranging-coins) |
