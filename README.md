@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/pranavvv0016/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/pranavvv0016/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pranavvv0016/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/pranavvv0016/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranavvv0016/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -53,6 +55,7 @@
 | [0075-sort-colors](https://github.com/pranavvv0016/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
