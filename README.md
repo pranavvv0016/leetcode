@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/pranavvv0016/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0867-transpose-matrix) |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/pranavvv0016/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/pranavvv0016/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranavvv0016/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -49,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +101,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pranavvv0016/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pranavvv0016/leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/pranavvv0016/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Simulation
