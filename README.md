@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pranavvv0016/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/pranavvv0016/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/pranavvv0016/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pranavvv0016/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -117,4 +118,8 @@
 | [0136-single-number](https://github.com/pranavvv0016/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pranavvv0016/leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/pranavvv0016/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
