@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/pranavvv0016/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/pranavvv0016/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pranavvv0016/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavvv0016/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pranavvv0016/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranavvv0016/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/pranavvv0016/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pranavvv0016/leetcode/tree/master/1572-matrix-diagonal-sum) |
