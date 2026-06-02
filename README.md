@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/pranavvv0016/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/pranavvv0016/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pranavvv0016/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranavvv0016/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pranavvv0016/leetcode/tree/master/0075-sort-colors) |
@@ -68,6 +69,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pranavvv0016/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/pranavvv0016/leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
@@ -123,5 +125,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pranavvv0016/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pranavvv0016/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
