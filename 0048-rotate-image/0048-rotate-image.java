@@ -8,16 +8,16 @@ class Solution {
             }
         }
         for(int i=0;i<matrix.length;i++){
-                rev(matrix[i]);
-            }
+            rev(matrix[i]);
+        }
     }
-    public void rev(int matrix[]){
+    public void rev(int [] mat){
         int l=0;
-        int r=matrix.length-1;
+        int r=mat.length-1;
         while(l<r){
-           int t=matrix[l];
-            matrix[l]=matrix[r];
-            matrix[r]=t;
+            int t=mat[l];
+            mat[l]=mat[r];
+            mat[r]=t;
             l++;
             r--;
         }
