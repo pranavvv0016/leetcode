@@ -1,13 +1,11 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int r[] = new int[m + n];
-
-        // use m and n, NOT length
         for (int i = 0; i < m; i++) {
-            r[i] = nums1[i];        // ✅ no if condition needed
+            r[i] = nums1[i];
         }
         for (int i = 0; i < n; i++) {
-            r[i + m] = nums2[i];    // ✅ offset by m
+            r[i + m] = nums2[i];
         }
         arr(r);
         for (int i = 0; i < m + n; i++) {
