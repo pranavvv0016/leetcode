@@ -1,19 +1,46 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
-        ArrayList<int[]> result = new ArrayList<>();
-        int start = intervals[0][0];
-        int end = intervals[0][1];
-        for(int i = 1; i < intervals.length; i++){
-            if(intervals[i][0] <= end){
-                end = Math.max(end, intervals[i][1]);
-            }else{
-                result.add(new int[]{start,end});
-                start = intervals[i][0];
-                end = intervals[i][1];
+        int max = 0;
+        for (int[] inte : intervals) {
+            max = Math.max(max, inte[0]);
+        }
+
+        int[] map = new int[max + 1];
+        for (int[] inte : intervals) {
+            int start = inte[0];
+            int end = inte[1];
+            map[start] = Math.max(end + 1, map[start]);
+        }
+
+        int mergeCount = 0;
+        int start = -1;
+        int end = -1;
+        for (int i = 0; i < map.length; i++) {
+            if (map[i] != 0) {
+                if (start == -1) {
+                    start = i;
+                }
+
+                end = Math.max(end, map[i] - 1);
+            }
+
+            if (i == end) {
+                intervals[mergeCount++] = new int[] { start, end };
+                start = -1;
+                end = -1;
             }
         }
-        result.add(new int[]{start,end});
-        return result.toArray(new int[result.size()][]);
+
+        if (start != -1) {
+            intervals[mergeCount++] = new int[] { start, end };
+        }
+
+        int[][] res = new int[mergeCount][];
+
+        for (int i = 0; i < mergeCount; i++) {
+            res[i] = intervals[i];
+        }
+
+        return res;
     }
 }
