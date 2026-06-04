@@ -1,12 +1,19 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int dup=-1;
-        HashSet set=new HashSet<>();
-        for(int num:nums){
-            if(!set.add(num)){
-                dup=num;
-            }
+        // Phase 1: Detect cycle
+        int slow = nums[0];
+        int fast = nums[0];
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+
+        // Phase 2: Find cycle entrance (= duplicate)
+        slow = nums[0];
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return dup;
+        return slow;
     }
 }
