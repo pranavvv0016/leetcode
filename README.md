@@ -85,6 +85,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/pranavvv0016/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/pranavvv0016/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/pranavvv0016/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pranavvv0016/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/pranavvv0016/leetcode/tree/master/0441-arranging-coins) |
@@ -131,4 +132,8 @@
 | [0053-maximum-subarray](https://github.com/pranavvv0016/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pranavvv0016/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavvv0016/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pranavvv0016/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
