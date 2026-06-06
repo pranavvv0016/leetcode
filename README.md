@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranavvv0016/leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/pranavvv0016/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@
 | [0073-set-matrix-zeroes](https://github.com/pranavvv0016/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranavvv0016/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/pranavvv0016/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -68,6 +70,7 @@
 | [0088-merge-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranavvv0016/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranavvv0016/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/pranavvv0016/leetcode/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/pranavvv0016/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
