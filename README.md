@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/pranavvv0016/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pranavvv0016/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pranavvv0016/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pranavvv0016/leetcode/tree/master/0031-next-permutation) |
@@ -191,6 +192,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pranavvv0016/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pranavvv0016/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pranavvv0016/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pranavvv0016/leetcode/tree/master/0876-middle-of-the-linked-list) |
