@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pranavvv0016/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pranavvv0016/leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/pranavvv0016/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/pranavvv0016/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -68,6 +69,7 @@
 | [0075-sort-colors](https://github.com/pranavvv0016/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranavvv0016/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pranavvv0016/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pranavvv0016/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pranavvv0016/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranavvv0016/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/pranavvv0016/leetcode/tree/master/0876-middle-of-the-linked-list) |
